@@ -9,13 +9,13 @@ Réalise un labyrinthe avec Scratch
 Le code peut s’apprendre très jeune, notamment via Hour of Code. 
 On trouve donc plein d’outils bien conçus pour découvrir les bases de la programmation, à commencer par Scratch. 
 
-## Intention
+## Intention
 Entrer dans le vif du sujet avec la programmation.
 
 ## Compétence.s concernée.s
     • Pas de compétence directement concernée.
 
-## Critères de réussite
+## Critères de réussite
     • Réussir à produire un jeu fonctionnel.
     • Le jeu est accessible pour tous.
 
@@ -41,7 +41,7 @@ Réaliser un jeu de labyrinthe. Le joueur se déplace dans un labyrinthe et doit
     • Choisir la pénalité lors d'une collision (retour au départ ou simple arrêt du mouvement)
     • Détecter l'arrivée et afficher un message de victoire
 
-## Conseils
+## Conseils
 Procédez étape par étape.  
 Ne perdez pas de temps sur les éléments visuels ou sonores, ce n’est pas ce qui nous intéresse ici.
 
